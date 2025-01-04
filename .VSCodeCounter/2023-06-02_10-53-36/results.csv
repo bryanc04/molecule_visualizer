@@ -1,0 +1,63 @@
+"filename", "language", "Python", "JSON", "XML", "JavaScript", "CSS", "Markdown", "HTML", "comment", "blank", "total"
+"/Users/bryan/Library/CloudStorage/OneDrive-LoomisChaffeeSchool/Loomis/CL Chemistry/project/.ipynb_checkpoints/Untitled-checkpoint.ipynb", "JSON", 0, 99, 0, 0, 0, 0, 0, 0, 1, 100
+"/Users/bryan/Library/CloudStorage/OneDrive-LoomisChaffeeSchool/Loomis/CL Chemistry/project/Untitled.ipynb", "JSON", 0, 277, 0, 0, 0, 0, 0, 0, 1, 278
+"/Users/bryan/Library/CloudStorage/OneDrive-LoomisChaffeeSchool/Loomis/CL Chemistry/project/backend/app.py", "Python", 46, 0, 0, 0, 0, 0, 0, 1, 13, 60
+"/Users/bryan/Library/CloudStorage/OneDrive-LoomisChaffeeSchool/Loomis/CL Chemistry/project/backend/tempCodeRunnerFile.py", "Python", 1, 0, 0, 0, 0, 0, 0, 0, 1, 2
+"/Users/bryan/Library/CloudStorage/OneDrive-LoomisChaffeeSchool/Loomis/CL Chemistry/project/my-app/README.md", "Markdown", 0, 0, 0, 0, 0, 38, 0, 0, 33, 71
+"/Users/bryan/Library/CloudStorage/OneDrive-LoomisChaffeeSchool/Loomis/CL Chemistry/project/my-app/firebase.json", "JSON", 0, 8, 0, 0, 0, 0, 0, 10, 0, 18
+"/Users/bryan/Library/CloudStorage/OneDrive-LoomisChaffeeSchool/Loomis/CL Chemistry/project/my-app/package-lock.json", "JSON", 0, 21321, 0, 0, 0, 0, 0, 0, 1, 21322
+"/Users/bryan/Library/CloudStorage/OneDrive-LoomisChaffeeSchool/Loomis/CL Chemistry/project/my-app/package.json", "JSON", 0, 52, 0, 0, 0, 0, 0, 0, 1, 53
+"/Users/bryan/Library/CloudStorage/OneDrive-LoomisChaffeeSchool/Loomis/CL Chemistry/project/my-app/public/chemdoodle/data/molecules/1BNA.js", "JavaScript", 0, 0, 0, 1, 0, 0, 0, 0, 1, 2
+"/Users/bryan/Library/CloudStorage/OneDrive-LoomisChaffeeSchool/Loomis/CL Chemistry/project/my-app/public/chemdoodle/data/molecules/1FFY.js", "JavaScript", 0, 0, 0, 1, 0, 0, 0, 0, 1, 2
+"/Users/bryan/Library/CloudStorage/OneDrive-LoomisChaffeeSchool/Loomis/CL Chemistry/project/my-app/public/chemdoodle/data/molecules/1XBR.js", "JavaScript", 0, 0, 0, 1, 0, 0, 0, 0, 1, 2
+"/Users/bryan/Library/CloudStorage/OneDrive-LoomisChaffeeSchool/Loomis/CL Chemistry/project/my-app/public/chemdoodle/data/molecules/2OEY.js", "JavaScript", 0, 0, 0, 1, 0, 0, 0, 0, 1, 2
+"/Users/bryan/Library/CloudStorage/OneDrive-LoomisChaffeeSchool/Loomis/CL Chemistry/project/my-app/public/chemdoodle/data/molecules/3CC2.js", "JavaScript", 0, 0, 0, 1, 0, 0, 0, 0, 1, 2
+"/Users/bryan/Library/CloudStorage/OneDrive-LoomisChaffeeSchool/Loomis/CL Chemistry/project/my-app/public/chemdoodle/data/molecules/3KGV.js", "JavaScript", 0, 0, 0, 1, 0, 0, 0, 0, 1, 2
+"/Users/bryan/Library/CloudStorage/OneDrive-LoomisChaffeeSchool/Loomis/CL Chemistry/project/my-app/public/chemdoodle/data/molecules/3N4B.js", "JavaScript", 0, 0, 0, 1, 0, 0, 0, 0, 1, 2
+"/Users/bryan/Library/CloudStorage/OneDrive-LoomisChaffeeSchool/Loomis/CL Chemistry/project/my-app/public/chemdoodle/install/ChemDoodleWeb.css", "CSS", 0, 0, 0, 0, 21, 0, 0, 27, 2, 50
+"/Users/bryan/Library/CloudStorage/OneDrive-LoomisChaffeeSchool/Loomis/CL Chemistry/project/my-app/public/chemdoodle/install/ChemDoodleWeb.js", "JavaScript", 0, 0, 0, 837, 0, 0, 0, 31, 0, 868
+"/Users/bryan/Library/CloudStorage/OneDrive-LoomisChaffeeSchool/Loomis/CL Chemistry/project/my-app/public/chemdoodle/install/uis/ChemDoodleWeb-uis.js", "JavaScript", 0, 0, 0, 1194, 0, 0, 0, 31, 0, 1225
+"/Users/bryan/Library/CloudStorage/OneDrive-LoomisChaffeeSchool/Loomis/CL Chemistry/project/my-app/public/chemdoodle/install/uis/jquery-ui-1.11.4.css", "CSS", 0, 0, 0, 0, 1135, 0, 0, 53, 34, 1222
+"/Users/bryan/Library/CloudStorage/OneDrive-LoomisChaffeeSchool/Loomis/CL Chemistry/project/my-app/public/chemdoodle/samples/Mass Spectrum - Styled.html", "HTML", 0, 0, 0, 0, 0, 0, 33, 0, 2, 35
+"/Users/bryan/Library/CloudStorage/OneDrive-LoomisChaffeeSchool/Loomis/CL Chemistry/project/my-app/public/chemdoodle/samples/Periodic Table.html", "HTML", 0, 0, 0, 0, 0, 0, 18, 0, 1, 19
+"/Users/bryan/Library/CloudStorage/OneDrive-LoomisChaffeeSchool/Loomis/CL Chemistry/project/my-app/public/chemdoodle/samples/Rotator 2D - Ball and Stick.html", "HTML", 0, 0, 0, 0, 0, 0, 33, 0, 2, 35
+"/Users/bryan/Library/CloudStorage/OneDrive-LoomisChaffeeSchool/Loomis/CL Chemistry/project/my-app/public/chemdoodle/samples/Sketcher - Full.html", "HTML", 0, 0, 0, 0, 0, 0, 25, 0, 2, 27
+"/Users/bryan/Library/CloudStorage/OneDrive-LoomisChaffeeSchool/Loomis/CL Chemistry/project/my-app/public/chemdoodle/samples/Sketcher - Single Molecule.html", "HTML", 0, 0, 0, 0, 0, 0, 24, 0, 2, 26
+"/Users/bryan/Library/CloudStorage/OneDrive-LoomisChaffeeSchool/Loomis/CL Chemistry/project/my-app/public/chemdoodle/samples/Transformer 2D - Wireframe - Morphine.html", "HTML", 0, 0, 0, 0, 0, 0, 32, 0, 2, 34
+"/Users/bryan/Library/CloudStorage/OneDrive-LoomisChaffeeSchool/Loomis/CL Chemistry/project/my-app/public/chemdoodle/samples/Transformer 3D - Ball and Stick - DDT.html", "HTML", 0, 0, 0, 0, 0, 0, 26, 0, 2, 28
+"/Users/bryan/Library/CloudStorage/OneDrive-LoomisChaffeeSchool/Loomis/CL Chemistry/project/my-app/public/chemdoodle/samples/Transformer 3D - Crystal - MAZ.html", "HTML", 0, 0, 0, 0, 0, 0, 34, 0, 2, 36
+"/Users/bryan/Library/CloudStorage/OneDrive-LoomisChaffeeSchool/Loomis/CL Chemistry/project/my-app/public/chemdoodle/samples/Transformer 3D - Nucleic Acid - 2OEY.html", "HTML", 0, 0, 0, 0, 0, 0, 37, 1, 2, 40
+"/Users/bryan/Library/CloudStorage/OneDrive-LoomisChaffeeSchool/Loomis/CL Chemistry/project/my-app/public/chemdoodle/samples/Transformer 3D - Ribbon - 1CRN.html", "HTML", 0, 0, 0, 0, 0, 0, 31, 0, 2, 33
+"/Users/bryan/Library/CloudStorage/OneDrive-LoomisChaffeeSchool/Loomis/CL Chemistry/project/my-app/public/chemdoodle/samples/Viewer 2D - Caffeine - ACS1996.html", "HTML", 0, 0, 0, 0, 0, 0, 36, 0, 3, 39
+"/Users/bryan/Library/CloudStorage/OneDrive-LoomisChaffeeSchool/Loomis/CL Chemistry/project/my-app/public/chemdoodle/src/ChemDoodleWeb-uis-unpacked.js", "JavaScript", 0, 0, 0, 20875, 0, 0, 0, 1794, 2460, 25129
+"/Users/bryan/Library/CloudStorage/OneDrive-LoomisChaffeeSchool/Loomis/CL Chemistry/project/my-app/public/chemdoodle/src/ChemDoodleWeb-unpacked.js", "JavaScript", 0, 0, 0, 22606, 0, 0, 0, 4053, 3507, 30166
+"/Users/bryan/Library/CloudStorage/OneDrive-LoomisChaffeeSchool/Loomis/CL Chemistry/project/my-app/public/chemdoodle/tests/ChemDoodleWeb-tests.js", "JavaScript", 0, 0, 0, 6485, 0, 0, 0, 76, 735, 7296
+"/Users/bryan/Library/CloudStorage/OneDrive-LoomisChaffeeSchool/Loomis/CL Chemistry/project/my-app/public/index.html", "HTML", 0, 0, 0, 0, 0, 0, 26, 23, 7, 56
+"/Users/bryan/Library/CloudStorage/OneDrive-LoomisChaffeeSchool/Loomis/CL Chemistry/project/my-app/public/manifest.json", "JSON", 0, 25, 0, 0, 0, 0, 0, 0, 1, 26
+"/Users/bryan/Library/CloudStorage/OneDrive-LoomisChaffeeSchool/Loomis/CL Chemistry/project/my-app/src/App.css", "CSS", 0, 0, 0, 0, 33, 0, 0, 0, 6, 39
+"/Users/bryan/Library/CloudStorage/OneDrive-LoomisChaffeeSchool/Loomis/CL Chemistry/project/my-app/src/App.test.js", "JavaScript", 0, 0, 0, 7, 0, 0, 0, 0, 2, 9
+"/Users/bryan/Library/CloudStorage/OneDrive-LoomisChaffeeSchool/Loomis/CL Chemistry/project/my-app/src/components/MoleculeRenderer.js", "JavaScript", 0, 0, 0, 269, 0, 0, 0, 4, 65, 338
+"/Users/bryan/Library/CloudStorage/OneDrive-LoomisChaffeeSchool/Loomis/CL Chemistry/project/my-app/src/components/MoleculeRenderer2.js", "JavaScript", 0, 0, 0, 121, 0, 0, 0, 4, 27, 152
+"/Users/bryan/Library/CloudStorage/OneDrive-LoomisChaffeeSchool/Loomis/CL Chemistry/project/my-app/src/components/Searchbar.js", "JavaScript", 0, 0, 0, 108, 0, 0, 0, 4, 18, 130
+"/Users/bryan/Library/CloudStorage/OneDrive-LoomisChaffeeSchool/Loomis/CL Chemistry/project/my-app/src/components/molinfo.js", "JavaScript", 0, 0, 0, 92, 0, 0, 0, 0, 6, 98
+"/Users/bryan/Library/CloudStorage/OneDrive-LoomisChaffeeSchool/Loomis/CL Chemistry/project/my-app/src/components/ptable.json", "JSON", 0, 3542, 0, 0, 0, 0, 0, 0, 0, 3542
+"/Users/bryan/Library/CloudStorage/OneDrive-LoomisChaffeeSchool/Loomis/CL Chemistry/project/my-app/src/components/radii.json", "JSON", 0, 1300, 0, 0, 0, 0, 0, 0, 0, 1300
+"/Users/bryan/Library/CloudStorage/OneDrive-LoomisChaffeeSchool/Loomis/CL Chemistry/project/my-app/src/components/searchbar.css", "CSS", 0, 0, 0, 0, 177, 0, 0, 40, 26, 243
+"/Users/bryan/Library/CloudStorage/OneDrive-LoomisChaffeeSchool/Loomis/CL Chemistry/project/my-app/src/components/searchbar2.css", "CSS", 0, 0, 0, 0, 181, 0, 0, 55, 33, 269
+"/Users/bryan/Library/CloudStorage/OneDrive-LoomisChaffeeSchool/Loomis/CL Chemistry/project/my-app/src/index.css", "CSS", 0, 0, 0, 0, 158, 0, 0, 6, 25, 189
+"/Users/bryan/Library/CloudStorage/OneDrive-LoomisChaffeeSchool/Loomis/CL Chemistry/project/my-app/src/index.js", "JavaScript", 0, 0, 0, 21, 0, 0, 0, 3, 3, 27
+"/Users/bryan/Library/CloudStorage/OneDrive-LoomisChaffeeSchool/Loomis/CL Chemistry/project/my-app/src/logo.svg", "XML", 0, 0, 1, 0, 0, 0, 0, 0, 0, 1
+"/Users/bryan/Library/CloudStorage/OneDrive-LoomisChaffeeSchool/Loomis/CL Chemistry/project/my-app/src/pages/About.js", "JavaScript", 0, 0, 0, 23, 0, 0, 0, 0, 4, 27
+"/Users/bryan/Library/CloudStorage/OneDrive-LoomisChaffeeSchool/Loomis/CL Chemistry/project/my-app/src/pages/Home.js", "JavaScript", 0, 0, 0, 35, 0, 0, 0, 0, 6, 41
+"/Users/bryan/Library/CloudStorage/OneDrive-LoomisChaffeeSchool/Loomis/CL Chemistry/project/my-app/src/pages/Landing.js", "JavaScript", 0, 0, 0, 87, 0, 0, 0, 0, 5, 92
+"/Users/bryan/Library/CloudStorage/OneDrive-LoomisChaffeeSchool/Loomis/CL Chemistry/project/my-app/src/pages/Shapes.js", "JavaScript", 0, 0, 0, 150, 0, 0, 0, 1, 17, 168
+"/Users/bryan/Library/CloudStorage/OneDrive-LoomisChaffeeSchool/Loomis/CL Chemistry/project/my-app/src/pages/True.js", "JavaScript", 0, 0, 0, 70, 0, 0, 0, 0, 8, 78
+"/Users/bryan/Library/CloudStorage/OneDrive-LoomisChaffeeSchool/Loomis/CL Chemistry/project/my-app/src/pages/VSEPR.js", "JavaScript", 0, 0, 0, 93, 0, 0, 0, 23, 14, 130
+"/Users/bryan/Library/CloudStorage/OneDrive-LoomisChaffeeSchool/Loomis/CL Chemistry/project/my-app/src/pages/asettings.js", "JavaScript", 0, 0, 0, 5, 0, 0, 0, 0, 1, 6
+"/Users/bryan/Library/CloudStorage/OneDrive-LoomisChaffeeSchool/Loomis/CL Chemistry/project/my-app/src/pages/jsmol.js", "JavaScript", 0, 0, 0, 20, 0, 0, 0, 0, 5, 25
+"/Users/bryan/Library/CloudStorage/OneDrive-LoomisChaffeeSchool/Loomis/CL Chemistry/project/my-app/src/pages/landingstyles.css", "CSS", 0, 0, 0, 0, 214, 0, 0, 18, 20, 252
+"/Users/bryan/Library/CloudStorage/OneDrive-LoomisChaffeeSchool/Loomis/CL Chemistry/project/my-app/src/pages/use-smooth-transform.js", "JavaScript", 0, 0, 0, 4, 0, 0, 0, 0, 2, 6
+"/Users/bryan/Library/CloudStorage/OneDrive-LoomisChaffeeSchool/Loomis/CL Chemistry/project/my-app/src/reportWebVitals.js", "JavaScript", 0, 0, 0, 12, 0, 0, 0, 0, 2, 14
+"/Users/bryan/Library/CloudStorage/OneDrive-LoomisChaffeeSchool/Loomis/CL Chemistry/project/my-app/src/setupTests.js", "JavaScript", 0, 0, 0, 1, 0, 0, 0, 4, 1, 6
+"/Users/bryan/Library/CloudStorage/OneDrive-LoomisChaffeeSchool/Loomis/CL Chemistry/project/presentation.md", "Markdown", 0, 0, 0, 0, 0, 65, 0, 0, 32, 97
+"Total", "-", 47, 26624, 1, 53122, 1919, 103, 355, 6262, 7154, 95587
